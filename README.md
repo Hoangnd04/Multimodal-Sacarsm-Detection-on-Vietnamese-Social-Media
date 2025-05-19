@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multimodal-Sacarsm-Detection-on-Vietnamese-Social-Media
 =======
 # Multimodal Sacarsm Detection on Vietnamese Social Media Texts
@@ -22,4 +21,3 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
->>>>>>> a0b6e67 (Initial commit)
